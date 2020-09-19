@@ -12,7 +12,7 @@ class Categorisable extends Model
     /**
      * Get the categorised model.
      *
-     * @return Illuminate\Database\Eloquent\Relations\MorphTo
+     * @return \Illuminate\Database\Eloquent\Relations\MorphTo
      */
     public function categorisable()
     {

@@ -6,7 +6,7 @@
     </include>
   </coverage>
   <testsuites>
-    <testsuite name="CategoriseIt test suite">
+    <testsuite name="Categories test suite">
       <directory suffix="Test.php">./tests</directory>
     </testsuite>
   </testsuites>

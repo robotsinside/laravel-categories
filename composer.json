@@ -1,0 +1,43 @@
+{
+    "name": "robotsinside/laravel-categories",
+    "license": "MIT",
+    "description": "A package for categorising Laravel Eloquent models.",
+    "authors": [
+        {
+            "name": "Rob Francken",
+            "email": "robertfrancken@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "RobotsInside\\Categories\\": "src"
+        }
+    },
+    "require": {
+        "php": "^7.3",
+        "illuminate/database": "^8.0",
+        "illuminate/support": "^8.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "RobotsInside\\Categories\\CategoriesServiceProvider"
+            ]
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^6.0",
+        "phpunit/phpunit": "^9.3"
+    },
+    "autoload-dev": {
+        "classmap": [
+            "tests/TestCase.php",
+            "tests/stubs/LessonStub.php",
+            "tests/stubs/CategoryStub.php"
+        ]
+    }
+}

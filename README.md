@@ -1,8 +1,10 @@
 # Laravel Categories
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/robotsinside/laravel-categories.svg?style=flat-square)](https://packagist.org/packages/robotsinside/laravel-categories)
+[![Build Status](https://img.shields.io/travis/robotsinside/laravel-categories/master.svg?style=flat-square)](https://travis-ci.org/robotsinside/laravel-categories)
+[![Quality Score](https://img.shields.io/scrutinizer/g/robotsinside/laravel-categories.svg?style=flat-square)](https://scrutinizer-ci.com/g/robotsinside/laravel-categories)
 [![Total Downloads](https://img.shields.io/packagist/dt/robotsinside/laravel-categories.svg?style=flat-square)](https://packagist.org/packages/robotsinside/laravel-categories)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 A simple package for categorising Eloquent models in Laravel. This package is a sibling of [Laravel Tags](https://github.com/robotsinside/laravel-tags), which can be used to tag Eloquent models. The API is pretty much the same as this one.
 

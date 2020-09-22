@@ -142,6 +142,12 @@ If you discover any security related issues, please email robertfrancken@gmail.c
 - [Rob Francken](https://github.com/robotsinside)
 - [All Contributors](../../contributors)
 
+## Coffee Time
+
+I have a problem. My coffee bean supply is running low. The thought of running out completely is making me sweat bullets. If you don't mind, I'd appreciate your support.
+
+<a href="https://www.buymeacoffee.com/robfrancken" target="_blank" width="50"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" width="200" alt="Buy Me A Coffee"></a>
+
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.

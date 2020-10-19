@@ -8,6 +8,16 @@
 
 A simple package for categorising Eloquent models in Laravel. This package is a sibling of [Laravel Tags](https://github.com/robotsinside/laravel-tags), which can be used to tag Eloquent models. The API is the same as this one.
 
+## Table of contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Scopes](#scopes)
+- [Security](#security)
+- [Credits](#credits)
+- [Coffee Time](#coffee-time)
+- [License](#license)
+
 ## Installation
 
 1. Install using Composer
@@ -133,7 +143,7 @@ The `RobotsInside\Categories\Models\Categorisable` model contains a scope to con
 -   `Categorisable::categorisedWithin('1 month');`
 -   `Categorisable::categorisedWithin('2 years');`
 
-### Security
+## Security
 
 If you discover any security related issues, please email robertfrancken@gmail.com instead of using the issue tracker.
 

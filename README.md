@@ -144,7 +144,7 @@ If you discover any security related issues, please email robertfrancken@gmail.c
 
 ## Coffee Time
 
-I have a problem. My coffee bean supply is running low. The thought of running out completely is making me sweat bullets. If you don't mind, I'd appreciate your support.
+Will work for :coffee::coffee::coffee:
 
 <a href="https://www.buymeacoffee.com/robfrancken" target="_blank" width="50"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" width="200" alt="Buy Me A Coffee"></a>
 

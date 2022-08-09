@@ -2,7 +2,7 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/robotsinside/laravel-categories.svg?style=flat-square)](https://packagist.org/packages/robotsinside/laravel-categories)
 [![Total Downloads](https://img.shields.io/packagist/dt/robotsinside/laravel-categories.svg?style=flat-square)](https://packagist.org/packages/robotsinside/laravel-categories)
-![CI](https://github.com/robotsinside/laravel-categories/actions/workflows/laravel.yml/badge.svg)
+![CI](https://github.com/robotsinside/laravel-categories/actions/workflows/laravel.yml/badge.svg?style=flat-square)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 A simple package for categorising Eloquent models in Laravel. This package is a sibling of [Laravel Tags](https://github.com/robotsinside/laravel-tags), which can be used to tag Eloquent models. The API is the same as this one.

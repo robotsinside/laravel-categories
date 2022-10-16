@@ -2,6 +2,8 @@
 
 All notable changes to `laravel-categories` will be documented in this file.
 
+## 1.2.1 - 2022-10-16
+- Add check for existing categories table
 ## 1.2.0 - 2022-05-03
 - Add Laravel 9 support, remove Laravel 7 support
 ## 1.1.0 - 2021-10-11
